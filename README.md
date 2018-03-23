@@ -6,3 +6,4 @@
 - [Cloud Security: A Guide for Cloud Users](https://www.edureka.co/blog/cloud-security/)
 - [AWS Certification – All you need to know](https://www.edureka.co/blog/aws-certification-careers/)
 - [Top AWS Architect Interview Questions In 2018](https://www.edureka.co/blog/interview-questions/top-aws-architect-interview-questions-2016/)
+- [AWS Free Tier ](https://aws.amazon.com/free/)

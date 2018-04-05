@@ -9,3 +9,4 @@
 - [AWS Free Tier ](https://aws.amazon.com/free/)
 - [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 - [AWS Samples in Github](https://github.com/aws-samples)
+- [Amazon Developer Portal](http://developer.amazon.com/)
